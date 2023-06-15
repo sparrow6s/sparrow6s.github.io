@@ -1,1 +1,1 @@
-window.location.href='http://www.qq.com'
+window.location.href='https://share.weiyun.com/7C2TyUbT'
